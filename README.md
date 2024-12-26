@@ -10,5 +10,4 @@ Student Age CT (School Days CT)
 + 现在我已经转向BepInEx的插件开发了(就单纯学习)
 ## 2024/12/26
 + 其他功能可以尝试使用Bepinex开发的插件STCheat-BepInEx
-# 图片教程:  
-![image](img/1.png)
+
