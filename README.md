@@ -7,6 +7,8 @@ Student Age CT (School Days CT)
 ## 2024/10/13 更新  
 + 去除了繁琐的操作，现在直接修改鼠标下的数据就可以了  
 + 目前测试下来支持绝大部分可见数据  
-+ 现在我已经转向BepInEx的插件开发了(就单纯学习)  
++ 现在我已经转向BepInEx的插件开发了(就单纯学习)
+## 2024/12/26
++ 其他功能可以尝试使用Bepinex开发的插件STCheat-BepInEx
 # 图片教程:  
 ![image](img/1.png)
